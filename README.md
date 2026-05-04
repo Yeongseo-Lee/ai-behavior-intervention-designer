@@ -1,5 +1,9 @@
 # AI-Assisted Behavior Intervention Designer
 
+## Live Demo
+
+[Open the live app](https://ai-behavior-intervention-designer-q56m4n08o.vercel.app/)
+
 A context-aware digital health prototype for translating walking barriers into feasible micro-interventions using transparent recommendation logic.
 
 ## Overview
